@@ -1,5 +1,5 @@
 # Heyyo ✌ I'm Alifian
-I’m an Indonesian student diving into AI & Machine Learning. Still a beginner, but always curious and excited to keep learning and building cool stuff along the way. I'd like to experiment on developing some recognition and/or AI model stuff, and expect less, because I'm not the best but I do my best.
+An Indonesian student diving into AI & Machine Learning. Still a beginner, but always curious and excited to keep learning and building cool stuff along the way. I'd like to experiment on developing some recognition and/or AI model stuff, and expect less, because I'm not the best but I do my best.
 
 ## Find Me On
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alifian.dev24)
