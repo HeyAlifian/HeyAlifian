@@ -1,4 +1,4 @@
-# Heyyo ✌ I'm Alifian
+# Heyya ✌ I'm Alifian
 An Indonesian student diving into AI & Machine Learning. Still a beginner, but always curious and excited to keep learning and building cool stuff along the way. I'd like to experiment on developing some recognition and/or AI model stuff, and expect less, because I'm not the best but I do my best.
 
 ## Find Me On
